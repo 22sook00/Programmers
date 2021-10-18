@@ -15,7 +15,7 @@ let divide = nums.length /2 ;
 return noDupeArr.length > divide ? divide : noDupeArr.length;
 
 
-//better code
+//better code!!
 function solution(nums) {
   //nums = [1,2,3,3] 
   //let a = nums.length / 2
