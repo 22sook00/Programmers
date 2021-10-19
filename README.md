@@ -1,8 +1,11 @@
 # Programmers
 
-**1단계부터 풀어나가기**
-* 해시 
-* 정렬 
+**하루에 세개씩, 꾸준히**
+* 기초
+* Hash 
+* 정렬
 * 완전탐색 
 * Greedy 
-* DFS/BFS 
+* Heap
+* DFS/BFS
+* Kakao 
